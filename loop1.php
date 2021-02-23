@@ -10,7 +10,6 @@ function multiplyBy2()
 {for ($i = 0; $i < count($input); $i++) {
   $output[] = $input[$i] * 2;
 }
-return $output;
 }
 
 

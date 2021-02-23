@@ -13,7 +13,6 @@ function isOutputInferiorToInput(){
     }
     $i++;
   }
-  return $output;
 }
 
 // $output = 7

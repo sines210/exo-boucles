@@ -11,7 +11,6 @@ function getPairNumbers(){
       $output[] =  $number;
     }
   }
-  return $output;
 }
 
 
