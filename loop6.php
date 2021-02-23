@@ -18,8 +18,9 @@ function getTheNumbersInferiorsToTheirPreviousOne(){
 }
 
 
-//$output[2,1]
-//pas trouvé de fonction équivalente
+//$output[1,2,3,5,7]
+//voir scrren pour la lecture de la boucle
+//fonction de tri équivalente : sort
 
 
 

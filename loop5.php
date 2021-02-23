@@ -4,7 +4,7 @@ $input = [3, 4, 3, 1, 5, 4];
 
 $output = [];
 
-function isInputValueDifferentThatOutputValue(){
+function filtreDoublons(){
   foreach ($input as $value) {
     if (!in_array($value, $output)) {
       $output[] = $value;
@@ -12,8 +12,11 @@ function isInputValueDifferentThatOutputValue(){
   }
 }
 
-// $output = [3, 4, 3, 1, 5, 4]
-//la fonction est déjà utilisée in_array
+// $output = [3, 4, 1, 5]
+//retire les doublons
+//fonction php equivalente => array_unique
+//signature removeDoublons (array:input):array
+
 
 
 

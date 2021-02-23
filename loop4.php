@@ -6,7 +6,7 @@ $input2 = 9;
 $output = false;
 $i = 0;
 
-function isInput1ValueEqualToInput2(){
+function isInArray(){
   while ($i < count($input1)) {
     if ($input1[$i] === $input2) {
       $output = true;
@@ -15,8 +15,9 @@ function isInput1ValueEqualToInput2(){
   }
 }
 
-// $output = false
 
+// $output = false
+//signature isInArray [array:input1]:array
 
 //=> FONCTION EQUIVALENTE IN_ARRAY
 
