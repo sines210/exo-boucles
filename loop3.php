@@ -14,7 +14,7 @@ function getPairNumbers(){
 }
 
 
-// $output = [2, 6, 6, 2] ou [0,0,0,0]
+// $output = [2, 6, 6, 2] 
 //pas trouvé de fonction équivalente
 
 
