@@ -16,7 +16,7 @@ function isOutputInferiorToInput(){
   return $output;
 }
 
-// $output = null
+// $output = 7
 //pas trouvé de fonction équivalente
 
 //boucles équivalentes:
